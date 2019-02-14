@@ -1,0 +1,108 @@
+.select_main_image {
+    width: 42px;
+    margin-right: 25px;
+    position: absolute;
+    top: 0;
+    left: 0px;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+.custom_dropdown {
+    padding: 18px 20px 18px 70px;
+    border: 1px solid #eeeeee;
+    border-radius: 4px;
+    font: 400 13px 'Open Sans',sans-serif;
+    margin-bottom: 5px;
+    width: 100%;
+    color: #555;
+    text-align: left;
+}
+.dropdown_icon_for_input_make {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-top: 17px;
+    margin-right: 20px;
+}
+.icon_location_globe{
+    margin-right: 15px;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.select_model_li{
+    padding: 8px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.dropdown-toggle, .dropdown-menu {
+    width: 100%;
+}
+.select_make_li {
+    padding: 3px 12px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.dropdown-menu>li:hover {
+    background: #f1f9fd;
+}
+.add_price_icon {
+    font-size: 15px;
+    margin-right: 25px;
+    position: absolute;
+    top: 0;
+    right: 0px;
+    margin-top: 40px;
+    margin-left: 10px;
+    color: #555;
+}
+#add_car_price_field{
+    height: 54px;
+}
+.select_images_main_wrapper {
+    height: 186px;
+    cursor: pointer;
+}
+.camera_icon_custom {
+    font-size: 70px;
+    vertical-align: middle;
+    margin-top: 60px;
+    color: #D7D7D7;
+}
+.confirm_edit_icon_on_input_text {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 25px;
+    margin-top: 11px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.login_red_btn {
+    background: #db2d2e;
+    width: 100%;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+#inspection_image_holder_img{
+    cursor: pointer;
+}
+.car_make_name {
+    font-weight: 600;
+}
+.custome_dropdown_img {
+    margin-right: 12px;
+    margin-left: 10px;
+}
+.car_body_lable {
+    font-weight: 600;
+    cursor: pointer;
+    padding-top: 7px;
+    padding-left: 30px;
+    padding-bottom: 7px;
+}
